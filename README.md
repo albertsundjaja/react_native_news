@@ -10,7 +10,7 @@ The project makes use of:
 * Redux (State management)
 * Redux Thunk (Redux middleware for async)
 
-![Demo](docs/spanews_reader.gif)
+![Demo](docs/spanews_reader_small.gif)
 
 ## Installation
 
