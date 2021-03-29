@@ -10,7 +10,7 @@ The project makes use of:
 * Redux (State management)
 * Redux Thunk (Redux middleware for async)
 
-![Demo](docs/spanews_reader_small.gif)
+![Demo](https://github.com/albertsundjaja/react_native_news/blob/main/docs/spacenews_reader_small.gif)
 
 ## Installation
 
