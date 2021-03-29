@@ -2,6 +2,7 @@ import React from 'react';
 import { StyleSheet, View } from 'react-native';
 import { Card, Title, Paragraph } from 'react-native-paper';
 
+// news item component which display the title, image and quick summary of the news
 const NewsItem = props => {
     return (
         <View style={styles.cardContainer}>
